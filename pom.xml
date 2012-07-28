@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>pio.org</groupId>
     <artifactId>CassandraUnit</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <version>1.0</version>
     <properties>
         <astyanax.version>0.8.10</astyanax.version>
